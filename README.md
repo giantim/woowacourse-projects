@@ -103,7 +103,7 @@
 
 ### 발표 주제 : Spring Batch
 
-- 아직 영상 편집 중입니다!
+- [라빈의 Spring Batch - Youtube](https://www.youtube.com/watch?v=1xJU8HfBREY)
 
 <br/>
 
